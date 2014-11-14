@@ -1,9 +1,8 @@
-# homebrew-custom
+# tmux
 
 ## Install
 
-brew tap longkey1/homebrew-custom
-brew install tmux-patched
+brew install longkey1/tmux/tmux-cjk-patched
 
 ## Thanks
 
